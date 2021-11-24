@@ -28,7 +28,4 @@ kubectl apply -f mongo-express-external-service.yaml
 minikube service mongo-express-external-service
 
 
-
-
-
-
+![3](https://user-images.githubusercontent.com/74933380/143325240-6aaf3529-fbfa-4de5-ad97-375ec85fd0ad.jpg)
